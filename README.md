@@ -1,7 +1,7 @@
 # Nitin Jain's Personal Website
 
 ## Overview
-Welcome to my personal website! This repository contains the source code and assets for my personal website. This website serves as a hub for showcasing my portfolio, sharing blog posts, and providing information about myself.
+Welcome to my personal website! This repository contains the source code and assets for my personal website, hosted at [iamnitinjain.com](https://iamnitinjain.com). This website serves as a hub for showcasing my portfolio, sharing blog posts, and providing information about myself.
 
 ## Features
 - **Portfolio Showcase**: View my latest projects and explore my work in detail.
@@ -29,7 +29,7 @@ Contributions are welcome! If you find any bugs, have suggestions for improvemen
 ## Connect with Me
 - **GitHub**: [njain006](https://github.com/njain006/iamnitinjain)
 - **LinkedIn**: [Nitin Jain](https://www.linkedin.com/in/nitinj025/)
+- **Website**: [iamnitinjain.com](https://iamnitinjain.com)
 
 Thank you for visiting my personal website! 🚀
-# iamnitinjain
-personal website
+
